@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Armando",
+    "surname": "H",
+    "email": "ar@gmail.com",
+    "dob": "12/12/2000"
+  },
+  {
+    "name": "Juan",
+    "surname": "L",
+    "email": "jl@gmail.com",
+    "dob": "20/05/1995"
+  },
+  {
+    "name": "blabla",
+    "createdAt": "2022-12-21T13:49:57.158Z",
+    "Id": "u2q87csslbxpp3qf"
+  },
+  {
+    "name": "blabla",
+    "createdAt": "2022-12-21T13:50:14.724Z",
+    "Id": "u2q87csslbxpphac"
+  },
+  {
+    "name": "test",
+    "createdAt": "2022-12-21T13:51:15.843Z",
+    "Id": "u2q87csslbxpqsg3"
+  },
+  {
+    "name": "test",
+    "email": "lalo@gmail.com",
+    "createdAt": "2022-12-21T13:56:29.625Z",
+    "Id": "u2q879dwlbxpxikb"
+  }
+]
