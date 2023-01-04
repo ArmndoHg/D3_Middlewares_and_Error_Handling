@@ -31,5 +31,22 @@
     "email": "lalo@gmail.com",
     "createdAt": "2022-12-21T13:56:29.625Z",
     "Id": "u2q879dwlbxpxikb"
+  },
+  {
+    "name": "juan",
+    "surname": "asegsdg",
+    "email": "naana@gmail.com",
+    "dob": "20/20/2020",
+    "createdAt": "2023-01-03T12:10:03.856Z",
+    "id": "u2q871x4lcg6upxu",
+    "updatedAt": "2023-01-03T12:11:13.029Z"
+  },
+  {
+    "name": "gntgntn",
+    "surname": "rtbntnb",
+    "email": "naana@gmail.com",
+    "dob": "20/20/2020",
+    "createdAt": "2023-01-03T12:12:08.517Z",
+    "id": "u2q871x4lcg6xe4l"
   }
 ]
