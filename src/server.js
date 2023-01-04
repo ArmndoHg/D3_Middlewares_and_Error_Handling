@@ -1,5 +1,6 @@
 import express from "express";
 import listEndpoints from "express-list-endpoints";
+import cors from "cors";
 import authorsRouter from "./api/authors/index.js";
 import blogsRouter from "./api/blogs/index.js";
 import {
@@ -22,6 +23,7 @@ const loggerMiddleware = (req, res, next) => {
   next();
 };
 
+server.use(cors());
 server.use(loggerMiddleware);
 server.use(express.json());
 
